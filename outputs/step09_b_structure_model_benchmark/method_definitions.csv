@@ -1,0 +1,17 @@
+﻿method,model_family,exposure_type,stock_window,probability_level,shrinkage_tau,uses_daily_vessel_count,uses_validation_exposure,deployable
+pair_global_mean,direct,none,none,global,0,False,False,True
+pair_hour_mean,direct,none,none,hour,0,False,False,True
+pair_recent7_hour,direct,none,recent7,hour,0,False,False,True
+pair_recent14_hour,direct,none,recent14,hour,0,False,False,True
+pair_hour_mean_x085,direct,none,none,hour,0,False,False,True
+present_global_prob,present_transition,predicted_present,long,global,0,False,False,True
+present_hour_prob_raw,present_transition,predicted_present,long,hour,0,False,False,True
+present_hour_prob_shrunk20,present_transition,predicted_present,long,hour,20,False,False,True
+present_recent7_stock_shrunk20,present_transition,predicted_present,recent7,hour,20,False,False,True
+linkable_global_prob,linkable_transition,predicted_linkable,long,global,0,False,False,True
+linkable_hour_prob_raw,linkable_transition,predicted_linkable,long,hour,0,False,False,True
+linkable_hour_prob_shrunk20,linkable_transition,predicted_linkable,long,hour,20,False,False,True
+linkable_recent7_stock_shrunk20,linkable_transition,predicted_linkable,recent7,hour,20,False,False,True
+linkable_hour_prob_shrunk20_vessel_p05,linkable_transition,predicted_linkable,long,hour,20,True,False,True
+oracle_present_hour_prob_shrunk20,present_transition,oracle_present,long,hour,20,False,True,False
+oracle_linkable_hour_prob_shrunk20,linkable_transition,oracle_linkable,long,hour,20,False,True,False
