@@ -1,0 +1,11 @@
+﻿method,model_family,daily_total_method,hour_profile_method,uses_recent_window,uses_time_decay,uses_day_type,uses_fourier,deployable
+hour_mean,direct,,,False,False,False,False,True
+recent7_hour,direct,,,True,False,False,False,True
+decomp_mean_mean,decomposition,mean,mean,False,False,False,False,True
+decomp_recent7_mean,decomposition,recent7,mean,True,False,False,False,True
+decomp_recent7_recent7,decomposition,recent7,recent7,True,False,False,False,True
+decomp_ewm7_mean,decomposition,ewm7,mean,False,True,False,False,True
+decomp_ewm7_recent7,decomposition,ewm7,recent7,True,True,False,False,True
+decomp_mean_fourier2,decomposition,mean,fourier2,False,False,False,True,True
+decomp_ewm7_fourier2,decomposition,ewm7,fourier2,False,True,False,True,True
+decomp_ewm7_daytype_shrunk,decomposition,ewm7,daytype_shrunk,False,True,True,False,True
