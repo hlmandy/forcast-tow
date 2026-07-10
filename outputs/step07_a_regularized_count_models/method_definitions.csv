@@ -1,0 +1,17 @@
+﻿method,model_family,estimator,target_level,feature_set,profile_method,uses_calendar,uses_vessel_count,uses_regularization,requires_alpha_selection,deployable
+hour_mean,baseline,weighted_mean,hourly,,,False,False,False,False,True
+decomp_mean_mean,baseline,weighted_mean,daily_total,,mean,False,False,False,False,True
+decomp_mean_daytype_shrunk,baseline,weighted_mean,daily_total,,daytype_shrunk,False,False,False,False,True
+decomp_ewm7_daytype_shrunk,baseline,ewm,daily_total,,daytype_shrunk,False,False,False,False,True
+ridge_direct_calendar,direct,ridge,hourly,calendar,,True,False,True,True,True
+ridge_direct_calendar_vessel,direct,ridge,hourly,calendar_vessel,,True,True,True,True,True
+poisson_direct_calendar,direct,poisson,hourly,calendar,,True,False,True,True,True
+poisson_direct_calendar_vessel,direct,poisson,hourly,calendar_vessel,,True,True,True,True,True
+decomp_ridge_calendar_mean,decomposition,ridge,daily_total,calendar,mean,True,False,True,True,True
+decomp_ridge_calendar_daytype,decomposition,ridge,daily_total,calendar,daytype_shrunk,True,False,True,True,True
+decomp_ridge_calendar_vessel_mean,decomposition,ridge,daily_total,calendar_vessel,mean,True,True,True,True,True
+decomp_ridge_calendar_vessel_daytype,decomposition,ridge,daily_total,calendar_vessel,daytype_shrunk,True,True,True,True,True
+decomp_poisson_calendar_mean,decomposition,poisson,daily_total,calendar,mean,True,False,True,True,True
+decomp_poisson_calendar_daytype,decomposition,poisson,daily_total,calendar,daytype_shrunk,True,False,True,True,True
+decomp_poisson_calendar_vessel_mean,decomposition,poisson,daily_total,calendar_vessel,mean,True,True,True,True,True
+decomp_poisson_calendar_vessel_daytype,decomposition,poisson,daily_total,calendar_vessel,daytype_shrunk,True,True,True,True,True
