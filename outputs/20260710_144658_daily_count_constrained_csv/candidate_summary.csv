@@ -1,0 +1,4 @@
+﻿dir,constraint_level,blend_to_daily_constraint,A_sum,B_sum,reason
+submit_01_A100_B085_anchor,none,0.0,1839,395,Current online-component anchor: old A100 shape plus B085.
+submit_02_A_daily_total_constraint25_B085,daily_total,0.25,1817,395,Move each daily A total 25% toward validation-vessel-count regression target.
+submit_03_A_daily_total_constraint50_B085,daily_total,0.5,1793,395,Move each daily A total 50% toward validation-vessel-count regression target.

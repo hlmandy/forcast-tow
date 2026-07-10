@@ -1,0 +1,10 @@
+{
+  "dir": "submit_01_A100_B085_anchor",
+  "constraint_level": "none",
+  "blend_to_daily_constraint": 0.0,
+  "reason": "Current online-component anchor: old A100 shape plus B085.",
+  "A_sum": 1839,
+  "B_sum": 395,
+  "output_format": "csv-only",
+  "uses_validation_daily_vessel_count": true
+}

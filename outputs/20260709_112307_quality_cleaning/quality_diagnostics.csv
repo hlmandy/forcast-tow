@@ -1,0 +1,16 @@
+﻿metric,value
+rows,2039846
+unique_mmsi,109
+missing_true_heading,354
+missing_rot,11542
+true_heading_invalid,151898
+cog_invalid,278
+sog_gt_15,1388
+sog_gt_30,269
+outside_30km,71020
+duplicate_mmsi_time_rows,20472
+duplicate_mmsi_time_rows_to_drop,10243
+gap_gt_1h,835
+step_speed_gt_30,39982
+step_speed_gt_50,28305
+step_speed_gt_100,12543

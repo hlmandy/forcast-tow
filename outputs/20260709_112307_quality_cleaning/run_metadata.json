@@ -1,0 +1,6 @@
+{
+  "train_path": "C:\\Users\\mandy\\hl_Documents\\2026CTS\\notebooks\\训练集_20180101-0124_拖轮AIS\\训练集_20180101-0124_拖轮AIS.csv",
+  "run_dir": "C:\\Users\\mandy\\hl_Documents\\2026CTS\\outputs\\20260709_112307_quality_cleaning",
+  "rows": 2039846,
+  "unique_mmsi": 109
+}

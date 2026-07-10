@@ -1,0 +1,10 @@
+{
+  "dir": "submit_02_A_daily_total_constraint25_B085",
+  "constraint_level": "daily_total",
+  "blend_to_daily_constraint": 0.25,
+  "reason": "Move each daily A total 25% toward validation-vessel-count regression target.",
+  "A_sum": 1817,
+  "B_sum": 395,
+  "output_format": "csv-only",
+  "uses_validation_daily_vessel_count": true
+}
