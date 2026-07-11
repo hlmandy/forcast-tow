@@ -1,0 +1,7 @@
+﻿candidate_id,task,file_path,row_count,expected_row_count,columns_exact,template_order_exact,key_unique,date_start,date_end,missing_value_count,negative_value_count,noninteger_value_count,passed
+candidate_01_main,A,outputs\step11_final_validation_candidates\submissions\candidate_01_main\提交结果1_区域活跃拖轮数量.csv,504,504,True,True,True,2018-01-25,2018-01-31,0,0,0,True
+candidate_01_main,B,outputs\step11_final_validation_candidates\submissions\candidate_01_main\提交结果2_圈层间拖轮迁移量.csv,1008,1008,True,True,True,2018-01-25,2018-01-31,0,0,0,True
+candidate_02_a_sensitivity,A,outputs\step11_final_validation_candidates\submissions\candidate_02_a_sensitivity\提交结果1_区域活跃拖轮数量.csv,504,504,True,True,True,2018-01-25,2018-01-31,0,0,0,True
+candidate_02_a_sensitivity,B,outputs\step11_final_validation_candidates\submissions\candidate_02_a_sensitivity\提交结果2_圈层间拖轮迁移量.csv,1008,1008,True,True,True,2018-01-25,2018-01-31,0,0,0,True
+candidate_03_b_robustness,A,outputs\step11_final_validation_candidates\submissions\candidate_03_b_robustness\提交结果1_区域活跃拖轮数量.csv,504,504,True,True,True,2018-01-25,2018-01-31,0,0,0,True
+candidate_03_b_robustness,B,outputs\step11_final_validation_candidates\submissions\candidate_03_b_robustness\提交结果2_圈层间拖轮迁移量.csv,1008,1008,True,True,True,2018-01-25,2018-01-31,0,0,0,True

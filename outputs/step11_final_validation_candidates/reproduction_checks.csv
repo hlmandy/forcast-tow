@@ -1,0 +1,7 @@
+﻿task,component_id,reference_step,reference_evaluation_id,reference_training_policy,reference_method,reference_rounding_method,n_rows,max_abs_diff_float,rounded_exact_match_rate,passed
+A,a_exclude_daytype,step07,final_analog,exclude_outage_severe,decomp_mean_daytype_shrunk,independent,432,1.7763568394002505e-15,1.0,True
+A,a_quality_hour,step07,final_analog,quality_weighted,hour_mean,independent,432,1.7763568394002505e-15,1.0,True
+A,a_quality_mean_profile,step07,final_analog,quality_weighted,decomp_mean_mean,independent,432,1.7763568394002505e-15,1.0,True
+B,b_hier_scale,step10,final_analog,,pair_hour_hier_tau_scale_cv,independent,864,4.440892098500626e-16,1.0,True
+B,b_circular,step10,final_analog,,pair_hour_circular_cv,independent,864,2.220446049250313e-16,1.0,True
+B,b_fixed085,step10,final_analog,,pair_hour_fixed085,independent,864,1.1102230246251565e-16,1.0,True

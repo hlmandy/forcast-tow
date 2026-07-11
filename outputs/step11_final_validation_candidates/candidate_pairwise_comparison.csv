@@ -1,0 +1,4 @@
+﻿candidate_i,candidate_j,a_differing_cell_count,a_mean_abs_difference,a_max_abs_difference,a_total_difference,b_differing_cell_count,b_mean_abs_difference,b_max_abs_difference,b_total_difference
+candidate_01_main,candidate_02_a_sensitivity,143,0.2916666666666667,2,1,0,0.0,0,0
+candidate_01_main,candidate_03_b_robustness,0,0.0,0,0,98,0.09722222222222222,1,-70
+candidate_02_a_sensitivity,candidate_03_b_robustness,143,0.2916666666666667,2,-1,98,0.09722222222222222,1,-70
