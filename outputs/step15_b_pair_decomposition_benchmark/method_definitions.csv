@@ -1,0 +1,8 @@
+﻿method,model_family,parameter_scope,rounding_method,daily_total_method,profile_method,tau,requires_inner_selection,deployable
+circular3_independent,direct_baseline,fixed,independent,,,,False,True
+pair_default_independent,pair_decomposition,fixed,independent,long_mean,day_equal_triangular3,20,False,True
+pair_default_hierarchical,pair_decomposition,fixed,pair_hierarchical,long_mean,day_equal_triangular3,20,False,True
+pair_global_cv_independent,pair_decomposition,global,independent,,,,True,True
+pair_global_cv_hierarchical,pair_decomposition,global,pair_hierarchical,,,,True,True
+pair_bypair_cv_independent,pair_decomposition,by_pair,independent,,,,True,True
+pair_bypair_cv_hierarchical,pair_decomposition,by_pair,pair_hierarchical,,,,True,True
