@@ -1,0 +1,3 @@
+﻿task,source_path,output_path,row_count,row_order_equal,key_unique,unchanged_direction_values_equal,replaced_direction_values_verified,sha256_equal_to_source,missing_value_count,negative_value_count,noninteger_value_count,passed
+A,outputs\step13_reordered_new_a_control\candidate_05_newA_oldOrder_newB\提交结果1_区域活跃拖轮数量.csv,outputs\step17_controlled_b_hybrid\candidate_07_A4423_B_core_near_hybrid\提交结果1_区域活跃拖轮数量.csv,504,True,True,True,True,True,0,0,0,True
+B,outputs\step12_recombined_candidate\提交结果2_圈层间拖轮迁移量.csv,outputs\step17_controlled_b_hybrid\candidate_07_A4423_B_core_near_hybrid\提交结果2_圈层间拖轮迁移量.csv,1008,True,True,True,True,False,0,0,0,True
