@@ -1,0 +1,4 @@
+﻿source_region,source_grouping_reduces_sparsity,source_daily_total_more_stable_than_directions,source_profile_more_stable_than_directions,destination_share_stable,present_stock_forecastable,linkable_stock_forecastable,present_rate_stable,linkable_rate_stable,recommended_structure,reason
+core,False,True,True,False,False,False,False,False,source_total_profile_share,"cv=0.198, pearson=0.236, share_var=0.208"
+near,False,True,True,True,False,False,False,False,source_total_profile_share,"cv=0.180, pearson=0.153, share_var=0.128"
+outer,False,True,False,False,True,True,False,False,no_clear_advantage,"cv=0.288, pearson=0.101, share_var=0.235"
