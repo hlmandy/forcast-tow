@@ -1,0 +1,13 @@
+﻿method,deployable
+exact_step11_baseline,True
+occupancy_long,True
+occupancy_recent7,True
+occupancy_long_recent_blend,True
+occupancy_logU_slope,True
+vessel_prob_global,True
+vessel_prob_long_tau10,True
+vessel_prob_weekly_tau10,True
+vessel_prob_recent_tau10,True
+vessel_prob_long_tau10_no_new_pool,True
+oracle_true_present_set,False
+oracle_true_presence_prob,False

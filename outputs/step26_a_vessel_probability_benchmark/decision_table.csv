@@ -1,0 +1,13 @@
+﻿method,deployable,total_sse,baseline_sse,reduction_ratio,passes_5pct
+exact_step11_baseline,True,3872.0,3872.0,0.0,False
+occupancy_long,True,3959.0,3872.0,-0.022469008264462742,False
+occupancy_recent7,True,4119.0,3872.0,-0.0637913223140496,False
+occupancy_long_recent_blend,True,3967.0,3872.0,-0.02453512396694224,False
+occupancy_logU_slope,True,4013.0,3872.0,-0.03641528925619841,False
+vessel_prob_global,True,4092.0,3872.0,-0.05681818181818188,False
+vessel_prob_long_tau10,True,4186.0,3872.0,-0.08109504132231415,False
+vessel_prob_weekly_tau10,True,4166.0,3872.0,-0.07592975206611574,False
+vessel_prob_recent_tau10,True,4641.0,3872.0,-0.1986053719008265,False
+vessel_prob_long_tau10_no_new_pool,True,4124.0,3872.0,-0.0650826446280992,False
+oracle_true_present_set,False,4050.0,3872.0,-0.045971074380165344,False
+oracle_true_presence_prob,False,4092.0,3872.0,-0.05681818181818188,False
