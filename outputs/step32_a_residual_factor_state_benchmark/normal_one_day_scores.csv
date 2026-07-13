@@ -1,0 +1,17 @@
+﻿date,method,baseline_sse,method_sse,improved
+2018-01-10,mean_residual_a0.5,523.0,466.0,True
+2018-01-10,mean_residual_a1.0,523.0,530.0,False
+2018-01-11,mean_residual_a0.5,501.0,482.0,True
+2018-01-11,mean_residual_a1.0,501.0,598.0,False
+2018-01-19,mean_residual_a0.5,525.0,486.0,True
+2018-01-19,mean_residual_a1.0,525.0,568.0,False
+2018-01-20,mean_residual_a0.5,629.0,813.0,False
+2018-01-20,mean_residual_a1.0,629.0,1099.0,False
+2018-01-21,mean_residual_a0.5,995.0,999.0,False
+2018-01-21,mean_residual_a1.0,995.0,1021.0,False
+2018-01-22,mean_residual_a0.5,585.0,568.0,True
+2018-01-22,mean_residual_a1.0,585.0,582.0,True
+2018-01-23,mean_residual_a0.5,481.0,506.0,False
+2018-01-23,mean_residual_a1.0,481.0,614.0,False
+2018-01-24,mean_residual_a0.5,741.0,719.0,True
+2018-01-24,mean_residual_a1.0,741.0,774.0,False
