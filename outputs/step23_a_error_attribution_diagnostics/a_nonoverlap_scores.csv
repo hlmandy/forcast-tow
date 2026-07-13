@@ -1,0 +1,16 @@
+﻿block,method,sse_integer,baseline_sse,reduction,reduction_ratio
+block_1,baseline,6328.0,6328.0,0.0,0.0
+block_1,oracle_daily_total,2384.0,6328.0,3944.0,0.6232616940581542
+block_1,oracle_region_totals,2278.0,6328.0,4050.0,0.6400126422250316
+block_1,oracle_hour_profile,8252.0,6328.0,-1924.0,-0.30404551201011376
+block_1,oracle_hour_totals,886.0,6328.0,5442.0,0.8599873577749684
+block_2,baseline,4515.0,4515.0,0.0,0.0
+block_2,oracle_daily_total,3784.0,4515.0,731.0,0.1619047619047619
+block_2,oracle_region_totals,3834.0,4515.0,681.0,0.15083056478405316
+block_2,oracle_hour_profile,1395.0,4515.0,3120.0,0.6910299003322259
+block_2,oracle_hour_totals,1378.0,4515.0,3137.0,0.6947951273532669
+combined,baseline,10843.0,10843.0,0.0,0.0
+combined,oracle_daily_total,6168.0,10843.0,4675.0,0.4311537397399244
+combined,oracle_region_totals,6112.0,10843.0,4731.0,0.436318362076916
+combined,oracle_hour_profile,9647.0,10843.0,1196.0,0.11030157705432075
+combined,oracle_hour_totals,2264.0,10843.0,8579.0,0.7912016969473393

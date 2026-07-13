@@ -1,0 +1,6 @@
+﻿component,oracle_reduction_ratio,rolling_stability,nonoverlap_result,final_analog_result,recommended_next_model,priority,reason
+daily_total,0.4808986125210982,see oracle_scores,0.4311537397399244,0.0878099173553719,robust_daily_level,high,oracle reduction 0.481 rolling; U_d corr -0.377
+region_allocation,0.4754140956159608,see oracle_scores,0.436318362076916,0.08057851239669421,no_action,low,incremental over daily_total: -0.005
+hour_profile,0.04528128042340185,see oracle_scores,0.11030157705432075,0.8135330578512396,no_action,low,oracle reduction 0.045
+region_hour_residual,0.8055366363163373,see signal_stability.csv,0.7912016969473393,0.675103305785124,cross_fitted_residual_calibration,medium,strong/moderate signals: 10/1
+daily_total_auxiliary_features,,R_d vs U_d corr=-0.377,,,weak_nonlinear_U_adjustment,medium,U_d vs R_d correlation -0.377
