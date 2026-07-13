@@ -1,0 +1,5 @@
+﻿block,method,oracle_sse,baseline_sse,reduction_pct
+block_pre_normal,oracle_true_stock_fixed_emission,2461.0,2729.0,9.820447050201542
+block_target_like,oracle_true_stock_fixed_emission,3453.0,3399.0,-1.5887025595763493
+block_post_outage_stress,oracle_true_stock_fixed_emission,3834.0,3872.0,0.9814049586776896
+all,exact_step11_baseline,,,0.0

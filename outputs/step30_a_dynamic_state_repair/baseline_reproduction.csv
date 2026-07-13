@@ -1,0 +1,4 @@
+﻿block,train_start,train_end,target_start,target_end,predicted_total,sse
+block_pre_normal,2018-01-01,2018-01-07,2018-01-08,2018-01-11,1360,2729.0
+block_target_like,2018-01-01,2018-01-19,2018-01-20,2018-01-24,1540,3399.0
+block_post_outage_stress,2018-01-01,2018-01-18,2018-01-19,2018-01-24,1866,3872.0

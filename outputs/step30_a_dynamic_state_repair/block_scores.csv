@@ -1,0 +1,13 @@
+﻿block,method,deployable,sse,baseline_sse,reduction_ratio
+block_pre_normal,exact_step11_baseline,True,2729.0,2729.0,0.0
+block_pre_normal,oracle_true_stock,False,2461.0,2729.0,0.09820447050201542
+block_pre_normal,markov_openloop,True,1.9003411400786956e+40,2729.0,-6.963507292336737e+36
+block_pre_normal,markov_mean_reverting_rho0.5,True,1.6010853354314425e+40,2729.0,-5.86693050726069e+36
+block_target_like,exact_step11_baseline,True,3399.0,3399.0,0.0
+block_target_like,oracle_true_stock,False,3453.0,3399.0,-0.015887025595763493
+block_target_like,markov_openloop,True,2.640925595335574e+40,3399.0,-7.769713431407984e+36
+block_target_like,markov_mean_reverting_rho0.5,True,2.46861214301742e+40,3399.0,-7.262760055950045e+36
+block_post_outage_stress,exact_step11_baseline,True,3872.0,3872.0,0.0
+block_post_outage_stress,oracle_true_stock,False,3834.0,3872.0,0.009814049586776896
+block_post_outage_stress,markov_openloop,True,3.233999865274602e+40,3872.0,-8.352272379324903e+36
+block_post_outage_stress,markov_mean_reverting_rho0.5,True,3.0509339262372396e+40,3872.0,-7.879478115282127e+36
