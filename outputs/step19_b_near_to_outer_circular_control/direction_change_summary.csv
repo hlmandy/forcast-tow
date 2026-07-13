@@ -1,0 +1,7 @@
+﻿task_key,row_count,changed_value_count,increase_count,decrease_count,baseline_total,candidate_total,total_change,passed
+core->near,168,0,0,0,175,175,0,True
+near->core,168,0,0,0,168,168,0,True
+core->outer,168,0,0,0,7,7,0,True
+outer->core,168,0,0,0,0,0,0,True
+near->outer,168,21,21,0,21,42,21,True
+outer->near,168,0,0,0,49,49,0,True
