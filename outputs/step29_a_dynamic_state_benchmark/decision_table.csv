@@ -1,0 +1,13 @@
+﻿block,method,deployable,sse,baseline_sse,reduction_ratio,passes_5pct
+block_target_like,exact_step11_baseline,True,3347.0,3347.0,0.0,False
+block_target_like,markov_openloop,True,132875.0,3347.0,-38.69973110247983,False
+block_target_like,markov_mean_reverting,True,3310.0,3347.0,0.01105467582910069,False
+block_target_like,last_day_residual_decay,True,3480.0,3347.0,-0.03973707798028081,False
+block_target_like,recent3_residual_decay,True,3262.0,3347.0,0.025395876904690806,False
+block_target_like,oracle_true_stock_fixed_emission,False,3496.0,3347.0,-0.04451747833881092,False
+block_post_outage_stress,exact_step11_baseline,True,3872.0,3872.0,0.0,False
+block_post_outage_stress,markov_openloop,True,218747.0,3872.0,-55.494576446280995,False
+block_post_outage_stress,markov_mean_reverting,True,3923.0,3872.0,-0.013171487603305776,False
+block_post_outage_stress,last_day_residual_decay,True,4087.0,3872.0,-0.055526859504132275,False
+block_post_outage_stress,recent3_residual_decay,True,4121.0,3872.0,-0.06430785123966931,False
+block_post_outage_stress,oracle_true_stock_fixed_emission,False,3496.0,3872.0,0.09710743801652888,False

@@ -1,0 +1,4 @@
+﻿method,sse,reduction
+exact_step11_baseline,3872.0,
+oracle_true_stock_fixed_emission,3496.0,9.710743801652889
+oracle_true_stock_daily_factor,3275.0,15.418388429752062

@@ -1,0 +1,4 @@
+﻿variable,region,lag,correlation,n
+daily_a_total,all,1,0.16730840558231375,17
+daily_a_total,all,2,-0.30747331613849754,17
+daily_a_total,all,24,,17
