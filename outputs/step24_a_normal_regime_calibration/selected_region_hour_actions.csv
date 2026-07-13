@@ -1,0 +1,17 @@
+﻿evaluation_id,method,region,hour_of_day,action,cum_delta_sse
+fold_02,normal_profile_plus_nested_residual,core,3,plus_one,-29.0
+fold_02,normal_profile_plus_nested_residual,core,1,minus_one,-25.0
+fold_03,nested_region_hour_unconstrained,core,2,minus_one,-27.0
+fold_03,nested_region_hour_unconstrained,core,15,plus_one,-23.0
+fold_03,nested_region_hour_unconstrained,near,4,minus_one,-3.0
+fold_03,nested_region_hour_total_preserving,core,15,plus_one,-23.0
+fold_03,nested_region_hour_total_preserving,core,2,minus_one,-27.0
+fold_03,normal_profile_plus_nested_residual,core,15,plus_one,-23.0
+fold_03,normal_profile_plus_nested_residual,core,2,minus_one,-27.0
+fold_04,nested_region_hour_unconstrained,core,2,minus_one,-27.0
+fold_04,nested_region_hour_unconstrained,core,15,plus_one,-23.0
+fold_04,nested_region_hour_unconstrained,near,4,minus_one,-3.0
+fold_04,nested_region_hour_total_preserving,core,15,plus_one,-23.0
+fold_04,nested_region_hour_total_preserving,core,2,minus_one,-27.0
+fold_04,normal_profile_plus_nested_residual,core,15,plus_one,-23.0
+fold_04,normal_profile_plus_nested_residual,core,2,minus_one,-27.0

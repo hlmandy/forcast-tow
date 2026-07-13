@@ -1,0 +1,10 @@
+﻿evaluation_id,smoother,lambda,inner_sse
+fold_01,tri3,0.25,1915.0
+fold_02,tri3,0.25,2335.0
+fold_03,tri3,0.25,2295.0
+fold_04,tri3,0.25,2295.0
+fold_05,tri3,0.25,2295.0
+fold_06,tri3,0.25,2295.0
+fold_07,tri3,0.25,2295.0
+fold_08,tri3,0.25,2295.0
+final_analog,tri3,0.25,2295.0

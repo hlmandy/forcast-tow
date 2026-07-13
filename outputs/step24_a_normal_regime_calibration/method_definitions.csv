@@ -1,0 +1,7 @@
+﻿method,deployable
+baseline,True
+nested_region_hour_unconstrained,True
+nested_region_hour_total_preserving,True
+normal_common_profile_cv,True
+normal_profile_plus_nested_residual,True
+step23_fixed10_diagnostic,False
