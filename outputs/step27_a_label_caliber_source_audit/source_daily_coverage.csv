@@ -1,0 +1,4 @@
+﻿source_dataset,total_rows,unique_mmsi,sog_missing,x_missing
+china_coastal,1817446,78,0,0
+e_globe_daily,149844,105,0,0
+f_globe_dynamic,72556,97,0,0

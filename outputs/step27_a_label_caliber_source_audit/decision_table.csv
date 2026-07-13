@@ -1,0 +1,7 @@
+﻿issue,magnitude,affected_a_cells,likely_label_caliber_risk,recommended_action,reason
+planar_vs_haversine,902 reclassifications (0.04%),6,low,keep_current,0.04% of points reclassified
+exact_duplicate_effect,0 duplicates (0.00%),6,low,keep_current,0 exact duplicate rows
+timestamp_duplicate_effect,10243 duplicates (0.50%),12,low,keep_current,10243 same-timestamp duplicates
+cross_source_threshold_effect,20 groups (0.3%),25,low,keep_current,0.3% of qualified groups rely on cross-source merging
+source_time_alignment,"262 matched pairs, median -16.0s",0,unknown,no_action,see timestamp_alignment.csv
+source_cohort_stability,3 cohorts,0,low,build_source_cohort_model,see cohort analysis

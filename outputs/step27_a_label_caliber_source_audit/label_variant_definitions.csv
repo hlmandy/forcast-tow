@@ -1,0 +1,7 @@
+﻿variant,name,description
+V0,current_raw_planar,exact make_a_labels reproduction
+V1,raw_haversine,"haversine distance, no dedup"
+V2,exact_message_dedup_haversine,dedup exact messages + haversine
+V3,vessel_timestamp_dedup_haversine,"dedup per mmsi+timestamp, median coords + haversine"
+V4,unique_timestamp_threshold_haversine,≥3 unique timestamps instead of ≥3 rows + haversine
+V5,per_source_threshold_union_haversine,"≥3 per source, union + haversine"
