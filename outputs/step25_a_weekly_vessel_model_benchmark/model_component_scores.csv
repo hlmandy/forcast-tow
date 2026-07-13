@@ -1,0 +1,15 @@
+﻿method,framework,total_sse,n_dates,baseline_sse,reduction_ratio
+baseline_step11,normal_day_rolling,6513.0,10,6513.0,0.0
+latest_normal_same_weekday,normal_day_rolling,9954.0,10,6513.0,-0.528327959465684
+mean_two_normal_same_weekdays,normal_day_rolling,9093.0,10,6513.0,-0.39613081529249183
+weighted_two_normal_same_weekdays,normal_day_rolling,9336.0,10,6513.0,-0.4334408106863197
+latest_normal_same_weekday_scaled_U_p025,normal_day_rolling,9965.0,10,6513.0,-0.5300168892983264
+latest_normal_same_weekday_scaled_U_p05,normal_day_rolling,9867.0,10,6513.0,-0.5149700598802396
+baseline_step11,post_outage_block,4026.0,6,4026.0,0.0
+latest_normal_same_weekday,post_outage_block,5826.0,6,4026.0,-0.4470938897168406
+mean_two_normal_same_weekdays,post_outage_block,4965.0,6,4026.0,-0.23323397913561839
+weighted_two_normal_same_weekdays,post_outage_block,5208.0,6,4026.0,-0.293591654247392
+latest_normal_same_weekday_scaled_U_p025,post_outage_block,5826.0,6,4026.0,-0.4470938897168406
+latest_normal_same_weekday_scaled_U_p05,post_outage_block,5661.0,6,4026.0,-0.4061102831594634
+vessel_latest_weekly_pattern,post_outage_block,9216.0,6,4026.0,-1.2891207153502235
+vessel_latest_weekly_pattern,normal_day_rolling,17254.0,10,6513.0,-1.6491632120374637

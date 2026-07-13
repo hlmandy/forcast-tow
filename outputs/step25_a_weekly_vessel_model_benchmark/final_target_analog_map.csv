@@ -1,0 +1,8 @@
+﻿target_date,target_weekday,lag7_date,lag7_quality,lag14_date,lag14_quality,lag21_date,lag21_quality,selected_source_date,selection_reason,target_U,source_U
+2018-01-25,3,2018-01-18,severe,2018-01-11,normal,2018-01-04,normal,2018-01-11,normal lag-14,47,54
+2018-01-26,4,2018-01-19,normal,2018-01-12,reduced,2018-01-05,normal,2018-01-19,normal lag-7,51,52
+2018-01-27,5,2018-01-20,normal,2018-01-13,outage,2018-01-06,normal,2018-01-20,normal lag-7,55,55
+2018-01-28,6,2018-01-21,normal,2018-01-14,outage,2018-01-07,normal,2018-01-21,normal lag-7,52,54
+2018-01-29,0,2018-01-22,normal,2018-01-15,outage,2018-01-08,normal,2018-01-22,normal lag-7,50,52
+2018-01-30,1,2018-01-23,normal,2018-01-16,outage,2018-01-09,normal,2018-01-23,normal lag-7,50,48
+2018-01-31,2,2018-01-24,normal,2018-01-17,severe,2018-01-10,normal,2018-01-24,normal lag-7,48,48
