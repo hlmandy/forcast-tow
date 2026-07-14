@@ -1,0 +1,5 @@
+﻿oracle,sse,baseline_sse,reduction
+best_existing_per_day,3673.0,3872.0,0.0513946280991735
+best_existing_per_region_day,3624.0,3872.0,0.06404958677685946
+convex_hull_per_day,3578.875,3872.0,0.07570377066115708
+correction_span_ols,3174.0,3872.0,0.1802685950413223
