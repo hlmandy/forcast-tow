@@ -1,0 +1,15 @@
+﻿block,method,deployable,sse,baseline_sse,reduction_ratio
+block_target_like,exact_step11_baseline,True,3399.0,3399.0,0.0
+block_target_like,level_zero_regime_zero,True,3399.0,3399.0,0.0
+block_target_like,regime_soft_recent3,True,3524.0,3399.0,-0.03677552221241531
+block_target_like,regime_soft_lag_normal,True,3469.0,3399.0,-0.02059429243895261
+block_target_like,regime_soft_lag_blend,True,3594.0,3399.0,-0.057369814651368145
+block_target_like,oracle_true_level_regime,False,3513.0,3399.0,-0.033539276257722905
+block_target_like,oracle_true_regime_template,False,3513.0,3399.0,-0.033539276257722905
+block_post_outage_stress,exact_step11_baseline,True,3872.0,3872.0,0.0
+block_post_outage_stress,level_zero_regime_zero,True,3872.0,3872.0,0.0
+block_post_outage_stress,regime_soft_recent3,True,4132.0,3872.0,-0.06714876033057848
+block_post_outage_stress,regime_soft_lag_normal,True,4177.0,3872.0,-0.07877066115702469
+block_post_outage_stress,regime_soft_lag_blend,True,4202.0,3872.0,-0.08522727272727271
+block_post_outage_stress,oracle_true_level_regime,False,4102.0,3872.0,-0.059400826446281085
+block_post_outage_stress,oracle_true_regime_template,False,4102.0,3872.0,-0.059400826446281085
