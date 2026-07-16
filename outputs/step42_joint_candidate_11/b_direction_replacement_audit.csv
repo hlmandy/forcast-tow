@@ -1,0 +1,7 @@
+﻿direction,block,cand10_sse,long_sse,gain,pct,long_mean,verdict
+outer->core,block_pre_normal,10.0,10.0,0.0,0.0,0.0,keep
+outer->core,block_target_like,133.0,133.0,0.0,0.0,0.0,keep
+outer->core,block_post_outage_stress,168.0,168.0,0.0,0.0,0.0,keep
+near->outer,block_pre_normal,22.0,21.0,1.0,4.545454545454546,0.0,replace
+near->outer,block_target_like,241.0,266.0,-25.0,-10.37344398340249,0.0,keep
+near->outer,block_post_outage_stress,298.0,350.0,-52.0,-17.449664429530202,0.0,keep
