@@ -1,0 +1,5 @@
+﻿index,date,hour,direction,increment,decode,meaning
+1,2018-01-25,17,outer->near,1,y=1 if (B_next - B0_base) >= this_digit and removing it doesn't change B_next,If true y=1 or higher at this cell
+2,2018-01-26,19,near->outer,16,y=1 if (B_next - B0_base) >= this_digit and removing it doesn't change B_next,If true y=16 or higher at this cell
+3,2018-01-27,11,near->outer,256,y=1 if (B_next - B0_base) >= this_digit and removing it doesn't change B_next,If true y=256 or higher at this cell
+4,2018-01-28,7,outer->near,4096,y=1 if (B_next - B0_base) >= this_digit and removing it doesn't change B_next,If true y=4096 or higher at this cell
