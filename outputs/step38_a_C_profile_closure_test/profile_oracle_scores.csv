@@ -1,0 +1,7 @@
+﻿block,oracle,sse,baseline_sse,reduction
+block_pre_normal,best_historical_profile_per_day,2647.0,2729.0,0.030047636496885355
+block_pre_normal,convex_historical_profile,2640.4105382469975,2729.0,0.03246224322206026
+block_target_like,best_historical_profile_per_day,3153.0,3399.0,0.07237422771403357
+block_target_like,convex_historical_profile,3134.0140070571492,3399.0,0.07795998615559008
+block_post_outage_stress,best_historical_profile_per_day,3460.0,3872.0,0.10640495867768596
+block_post_outage_stress,convex_historical_profile,3479.937091457267,3872.0,0.10125591646248278

@@ -1,0 +1,16 @@
+﻿block,date,baseline_sse,oracle_best_sse,oracle_best_source,oracle_best_reduction
+block_pre_normal,2018-01-08,402.0,398.0,daytype_weekend_w0.25,0.00995024875621886
+block_pre_normal,2018-01-09,1050.0,1006.0,recent1,0.04190476190476189
+block_pre_normal,2018-01-10,633.0,599.0,recent1_w0.5,0.05371248025276465
+block_pre_normal,2018-01-11,644.0,644.0,baseline,0.0
+block_target_like,2018-01-20,629.0,601.0,lag7_14_mean,0.04451510333863273
+block_target_like,2018-01-21,928.0,928.0,baseline,0.0
+block_target_like,2018-01-22,571.0,477.0,recent3,0.16462346760070057
+block_target_like,2018-01-23,527.0,443.0,lag7_w0.5,0.15939278937381407
+block_target_like,2018-01-24,744.0,704.0,recent6,0.053763440860215006
+block_post_outage_stress,2018-01-19,525.0,335.0,recent1_w0.75,0.36190476190476195
+block_post_outage_stress,2018-01-20,595.0,567.0,daytype_weekend_w0.75,0.04705882352941182
+block_post_outage_stress,2018-01-21,890.0,874.0,recent3,0.017977528089887618
+block_post_outage_stress,2018-01-22,597.0,515.0,recent3,0.13735343383584586
+block_post_outage_stress,2018-01-23,517.0,455.0,lag7_w0.5,0.11992263056092844
+block_post_outage_stress,2018-01-24,748.0,714.0,recent3_w0.75,0.045454545454545414
