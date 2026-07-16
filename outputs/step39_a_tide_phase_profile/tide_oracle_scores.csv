@@ -1,0 +1,4 @@
+﻿block,oracle,sse,baseline_sse,reduction
+block_pre_normal,best_circular_shift,2277.0,2729.0,0.1656284353242946
+block_target_like,best_circular_shift,2937.0,3399.0,0.13592233009708743
+block_post_outage_stress,best_circular_shift,3406.0,3872.0,0.12035123966942152
