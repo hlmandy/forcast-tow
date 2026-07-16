@@ -1,0 +1,13 @@
+﻿block,oracle,sse,baseline_sse,reduction
+block_pre_normal,oracle_true_C_total,2440.0,2729.0,0.10589959692194939
+block_pre_normal,oracle_true_C_profile,1526.0,2729.0,0.44082081348479296
+block_pre_normal,oracle_true_C_both,1319.0,2729.0,0.5166727739098571
+block_pre_normal,oracle_true_O_per_vessel,2440.0,2729.0,0.10589959692194939
+block_target_like,oracle_true_C_total,3207.0,3399.0,0.056487202118270075
+block_target_like,oracle_true_C_profile,1941.0,3399.0,0.4289496910856134
+block_target_like,oracle_true_C_both,1522.0,3399.0,0.5522212415416299
+block_target_like,oracle_true_O_per_vessel,3207.0,3399.0,0.056487202118270075
+block_post_outage_stress,oracle_true_C_total,3621.0,3872.0,0.06482438016528924
+block_post_outage_stress,oracle_true_C_profile,2203.0,3872.0,0.4310433884297521
+block_post_outage_stress,oracle_true_C_both,1786.0,3872.0,0.5387396694214877
+block_post_outage_stress,oracle_true_O_per_vessel,3621.0,3872.0,0.06482438016528924

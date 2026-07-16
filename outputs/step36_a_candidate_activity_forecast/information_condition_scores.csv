@@ -1,0 +1,10 @@
+﻿block,subset,n_dates,baseline_sse,method_sse,reduction,evidence_limited
+block_pre_normal,all_target,4,2729.0,2861.0,-0.04836936606815678,True
+block_pre_normal,lag7_normal,4,2729.0,2861.0,-0.04836936606815678,True
+block_pre_normal,lag7_or_lag14_normal,4,2729.0,2861.0,-0.04836936606815678,True
+block_target_like,all_target,5,3399.0,3550.0,-0.04442483083259785,False
+block_target_like,lag7_normal,0,0.0,0.0,0.0,True
+block_target_like,lag7_or_lag14_normal,5,3399.0,3550.0,-0.04442483083259785,False
+block_post_outage_stress,all_target,6,3872.0,3990.0,-0.030475206611570327,False
+block_post_outage_stress,lag7_normal,0,0.0,0.0,0.0,True
+block_post_outage_stress,lag7_or_lag14_normal,6,3872.0,3990.0,-0.030475206611570327,False
