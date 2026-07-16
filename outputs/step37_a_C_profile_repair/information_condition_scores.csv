@@ -1,0 +1,10 @@
+﻿block,subset,n_dates,bl_sse,method_sse,reduction,limited
+block_pre_normal,all_target,4,2729.0,3419.0,-0.2528398680835471,True
+block_pre_normal,lag7_normal,4,2729.0,3419.0,-0.2528398680835471,True
+block_pre_normal,lag14_normal,0,0.0,0.0,0.0,True
+block_target_like,all_target,5,3399.0,4301.0,-0.2653721682847896,False
+block_target_like,lag7_normal,0,0.0,0.0,0.0,True
+block_target_like,lag14_normal,5,3399.0,4301.0,-0.2653721682847896,False
+block_post_outage_stress,all_target,6,3872.0,4969.0,-0.2833161157024793,False
+block_post_outage_stress,lag7_normal,0,0.0,0.0,0.0,True
+block_post_outage_stress,lag14_normal,6,3872.0,4969.0,-0.2833161157024793,False
